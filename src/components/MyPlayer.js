@@ -10,6 +10,12 @@ const options = [
     scratchURL: "https://scratch.mit.edu/projects/415643132/editor/",
   },
   {
+    value: "videos/Flower.mkv",
+    label: "Flower",
+    des: "Edward's Scratch Flower",
+    scratchURL: "https://scratch.mit.edu/projects/418865088/editor/",
+  },
+  {
     value: "videos/UAVDashboard.MP4",
     label: "UAV Dashboard",
     des: "Jason's UAV DashBoard",
