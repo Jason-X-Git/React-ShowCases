@@ -4,7 +4,7 @@ import MyPlayer from './components/MyPlayer';
 function App() {
 
   useEffect(() => {
-    document.title = "Edward's Scratch ShowCases"
+    document.title = "React App ShowCases"
   });
 
   return (
