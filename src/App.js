@@ -1,24 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useEffect} from 'react';
+import MyPlayer from './components/MyPlayer';
 
 function App() {
+
+  useEffect(() => {
+    document.title = "Edward's Scratch ShowCases"
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{width: "100%", height: "100%", margin: 0, padding: 0}}>
+     <MyPlayer />
     </div>
   );
 }
