@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Jason-X-Git/React-ShowCases/static/js/main.8b1e4b15.chunk.js",
+    "main.js.map": "/Jason-X-Git/React-ShowCases/static/js/main.8b1e4b15.chunk.js.map",
+    "runtime-main.js": "/Jason-X-Git/React-ShowCases/static/js/runtime-main.921f63d7.js",
+    "runtime-main.js.map": "/Jason-X-Git/React-ShowCases/static/js/runtime-main.921f63d7.js.map",
+    "static/js/2.b06cb8ea.chunk.js": "/Jason-X-Git/React-ShowCases/static/js/2.b06cb8ea.chunk.js",
+    "static/js/2.b06cb8ea.chunk.js.map": "/Jason-X-Git/React-ShowCases/static/js/2.b06cb8ea.chunk.js.map",
+    "index.html": "/Jason-X-Git/React-ShowCases/index.html",
+    "precache-manifest.ae63838cca8afca332305d0cac9f531c.js": "/Jason-X-Git/React-ShowCases/precache-manifest.ae63838cca8afca332305d0cac9f531c.js",
+    "service-worker.js": "/Jason-X-Git/React-ShowCases/service-worker.js",
+    "static/js/2.b06cb8ea.chunk.js.LICENSE.txt": "/Jason-X-Git/React-ShowCases/static/js/2.b06cb8ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921f63d7.js",
+    "static/js/2.b06cb8ea.chunk.js",
+    "static/js/main.8b1e4b15.chunk.js"
+  ]
+}
