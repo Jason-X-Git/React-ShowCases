@@ -66,20 +66,19 @@ const MyPlayer = () => {
           </div>
           <div
             style={{
-              position: "relative",
+              height: 'auto',
+              width: 'auto'
             }}
           >
             <ReactPlayer
               style={{
                 position: "relative",
-                left: 0,
-                top: 0,
               }}
               url={videoURL.value}
               //  url="videos/Transformer.mkv"
               controls={true}
-              width={1080}
-              height={720}
+              width={'100%'}
+              height={'100%'}
             />
           </div>
         </div>
